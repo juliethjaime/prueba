@@ -1,1 +1,1 @@
-este es el archivi uno y estoy en la rama main
+este es el archivo uno y estoy en la rama main
